@@ -1,4 +1,4 @@
-# cpp_projeccts
+# cpp_projects
 Various C++ projects with:
 - Hashtables
 - Binary trees
