@@ -1,6 +1,5 @@
-# advengcomp
-C++ projects in data-structures and algorithms.
-Topics:
+# cpp_projeccts
+Various C++ projects with:
 - Hashtables
 - Binary trees
 - Self-balancing AVL trees
@@ -9,4 +8,3 @@ Topics:
 - Depth-first search and Breadth-first search over geometric meshes
 - A* search
 - Graphics using openGL
-
